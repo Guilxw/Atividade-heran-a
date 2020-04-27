@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlYsgFdM2Lxt6ic/JvgYFVzm9jTtsB9QWaGx18I0JoyD6RQX2guE74BUbw7SALOEUwOR/D9wGRgaRrsKEafSOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\Guilherme\\marlao\\marlao\\Atividade herança\\Atividade herança\\Atividade herança.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
